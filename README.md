@@ -3,3 +3,9 @@ A collection of Python libraries and frameworks with simple, practical examples 
 
 # Python Documentation
 https://docs.python.org/3/contents.html
+
+
+https://docs.python.org/3/glossary.html
+
+
+https://realpython.com/ref/glossary/
