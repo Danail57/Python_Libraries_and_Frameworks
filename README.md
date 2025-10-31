@@ -9,3 +9,6 @@ https://docs.python.org/3/glossary.html
 
 
 https://realpython.com/ref/glossary/
+
+
+https://medium.com/@hammadfarooq470/understanding-constructors-in-python-8fe7c1c23fa0
