@@ -2,7 +2,7 @@
 A collection of Python libraries and frameworks with simple, practical examples for learning and experimentation.
 
 5 Сложни ООП задачи на Python
-🧠 1. Система за библиотека (Library System 2.0)
+🧠 # 1. Система за библиотека (Library System 2.0)
 
 Изисквания:
 
