@@ -6,9 +6,13 @@ A collection of Python libraries and frameworks with simple, practical examples 
 
 Изисквания:
 Създай класове: Book, User, Library.
+
 Book да има атрибути: title, author, isbn, is_borrowed.
+
 User има name, id и списък с взети книги.
+
 Library държи всички книги и потребители.
+
 Добави методи:
 
 add_book()
@@ -20,8 +24,11 @@ show_available_books()
 
 ⚙️ 2. Игра “Battle Arena”
 Изисквания:
+
 Направи клас Character с атрибути name, hp, attack_power.
+
 Създай два наследника:
+
 Warrior (повече HP)
 Mage (по-малко HP, но по-силна атака)
 Добави метод attack(enemy) — намалява enemy.hp.
